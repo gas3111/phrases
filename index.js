@@ -29,7 +29,11 @@ phrases = [
 "Sorry, I've digressed a little to explain the situation so far, so let me now recap. (to deviate or wander away from the main topic or purpose in speaking or writing)",
 "Why are make-up sex and breakup sex so good?", 
 "No one in the team wants to pick up the slack. (to do the things that someone else is not willing or able to do)", 
-"The bus driver swerved to avoid hitting a cyclist. (change or cause to change direction abruptly)"
+"The bus driver swerved to avoid hitting a cyclist. (change or cause to change direction abruptly)",
+"The experiment is meant only to provide a baseline for other studies. (Clearly defined starting point (point of departure) from where implementation begins, improvement is judged, or comparison is made.)",
+"You're setting the bar kind of low, don't you think? ('Setting a bar' or 'setting the bar' means making a standard or level that other people or things will have to meet.)",
+"I try to set the bar very high for my students.",
+"His performance has raised the bar for everyone in the league."
 ]
 
 function displayPhrase() {
